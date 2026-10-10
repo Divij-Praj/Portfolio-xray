@@ -1,0 +1,7 @@
+pandas
+numpy
+scipy
+streamlit>=1.50
+requests
+yfinance
+pytest
